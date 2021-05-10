@@ -1,7 +1,16 @@
 # RELEASE ROAD MAP 
-**this is the structure of the road map, how the release system work**
+> **this is the structure of the road map, how the release system work**
 
+<br>
+<center>
+    <img src="https://github.com/RBucket-Org/rb-docs/blob/test-build-apk_1.0.0%2B1/release_road_map.png" alt="road_map">
+</center>
+<br>
 
+# Download APK
+## Test Build
+
+<span style="color:blue"><a href="https://bucket-file-space.sfo3.cdn.digitaloceanspaces.com/test-build-apk/app-profile.apk">test-build-apk(1.0.0+1)</a></span>
 
 # RBUCKET FEATURE LIST (Version 3)
 
@@ -18,7 +27,7 @@
     - Rey Feedback
     - Message
     - Room
-    - Community Tap **(Bucket)** **(Important Exceptional)**
+    - Community Tap **Bucket** **Important Exceptional**
     - RB Policies
     - RB Copyright
     - RB Private Policy
