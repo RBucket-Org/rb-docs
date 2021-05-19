@@ -10,7 +10,7 @@
 # Download APK
 ## Test Build
 
-<span style="color:blue"><a href="https://bucket-file-space.sfo3.cdn.digitaloceanspaces.com/test-build-apk/app-profile.apk">test-build-apk(1.0.0+1)</a></span>
+<span style="color:blue"><a href="https://bucket-file-space.sfo3.cdn.digitaloceanspaces.com/test-build-apk/app-profile.apk">test-build-apk(1.0.0+1)(revision-1)</a></span>
 
 # RBUCKET FEATURE LIST (Version 3)
 
